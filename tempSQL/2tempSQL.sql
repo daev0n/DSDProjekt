@@ -1,0 +1,6 @@
+INSERT INTO ad (title, content, image, brand, model, type, fueltype, price) VALUES ('asdadsa', 'dadadsad', 'image_1638307093.jpg', 'dasdad', 'dadads', 'asdasd', 'adadad', '1500')
+INSERT INTO ad (title, content, image, brand, model, type, fueltype, price) VALUES ('fsdfsdf', 'sdfsfsdf', 'image_1638345745.jpg', 'asdaasd', 'dasads', '1', 'dasda', '1100')
+INSERT INTO ad (title, content, image, brand, model, type, fueltype, price) VALUES ('fsfsfds', 'sdfsdfsdf', 'image_1638345852.jpg', 'sdfsdf', 'sdfsfds', 'SUV', 'fsfdsf', '1555')
+INSERT INTO ad (title, content, image, brand, model, type, fueltype, price) VALUES ('fsfdsf', 'fsfsfd', 'image_1638346268.jpg', 'skoda', 'fabia', 'Hatchback', 'Benzín', '1500')
+INSERT INTO ad (title, content, image, brand, model, type, fueltype, price) VALUES ('Lada', 'Pekne auto velmo', 'image_1638380113.jpg', 'Lada', 'Samara', 'Combi', 'Benzín', '500')
+INSERT INTO ad (title, content, image, brand, model, type, fueltype, price) VALUES ('Lada', 'Pekne auto velmo', 'image_1638380204.jpg', 'Lada', 'Samara', 'Combi', 'Benzín', '500')
